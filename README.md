@@ -49,16 +49,19 @@ The solution uses:
 ## Dashboard Pages
 
 ### Executive Sales Overview
+<img width="1352" height="800" alt="{9735598F-9696-406C-A3DF-9AA55B396EB8}" src="https://github.com/user-attachments/assets/00de1313-8783-4dff-bae0-cf1de15cdfeb" />
 
-![Executive Dashboard](screenshots/executive_sales_overview.png)
+
 
 ### Product Performance Analysis
 
-![Product Performance](screenshots/product_performance.png)
+<img width="1313" height="734" alt="{E14D8ECC-1FD3-4A14-BA91-63EE8365BC01}" src="https://github.com/user-attachments/assets/86cea317-ebab-4cfa-aa8e-6228e3f0a26b" />
+
 
 ### Customer Analysis
 
-![Customer Analysis](screenshots/customer_analysis.png)
+<img width="1311" height="737" alt="{1D2C1698-D6EE-42EE-970E-D2430E63316B}" src="https://github.com/user-attachments/assets/1129d3af-e8f2-416e-9749-1c535d94bbb5" />
+
 
 ## Key Business Insights
 
