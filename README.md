@@ -77,6 +77,4 @@ The solution uses:
 2. Use customer segmentation for targeted loyalty, retention, and upselling campaigns.
 3. Monitor low-performing and high-return products and investigate product quality, pricing and placement.
 
-## Important Note
 
-The source dataset was provided for an assessment and is therefore not included in this repository.
