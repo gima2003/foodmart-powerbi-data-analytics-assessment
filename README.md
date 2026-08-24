@@ -1,11 +1,4 @@
 
-Then add the other measures we created: Gross Profit, Gross Margin %, Total Customers, Return Rate %, Previous Year Revenue and YoY Growth.
-
----
-
-# 6. README should be the main presentation
-
-Your README should contain approximately:
 
 ```markdown
 # FoodMart Power BI Data Analytics Assessment
